@@ -1,0 +1,33 @@
+h1 {
+    color: darkgreen;
+    text-align: center;
+    font-family: georgia;
+}
+h2 {
+    text-align: center;
+    font-family: georgia;
+    
+}
+h1, h2 {
+    font-size: 40px;
+}
+p {
+    font-size: 25px;
+
+}
+a {
+        text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.You-might-also-like {
+    text-transform: capitalize;
+}
+img {
+    float: left;
+    padding: 30px;
+}
+.parent > li {
+    font-style: italic;
+}
