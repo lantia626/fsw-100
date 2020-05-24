@@ -1,0 +1,13 @@
+header{
+    color: blue;
+    font-size: 25px;
+    text-align: left;
+    background-color: black;
+}
+table, th, td, tr {
+    border: 1px solid black;
+}
+body {
+    background-color: lightblue;
+}
+ 
