@@ -1,0 +1,18 @@
+head {
+  background-color: royalblue;
+}
+
+h1 {
+  text-align: right;
+  color: black;
+  font-family: georgia;
+}
+.nav-bar {
+  position: fixed;
+  background-color: royalblue;
+  font-family: georgia;
+  font-size: 25px;
+}
+body {
+  background-color: red;
+}
