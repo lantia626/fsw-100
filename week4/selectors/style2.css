@@ -3,16 +3,37 @@ head {
 }
 
 h1 {
-  text-align: right;
+  text-align: center;
   color: black;
   font-family: georgia;
+
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: right;
 }
 .nav-bar {
   position: fixed;
-  background-color: royalblue;
   font-family: georgia;
   font-size: 25px;
+
+}
+.menu {
+  position: relative;
+  left:1000px;
+  background-color: lightblue;
+}
+.about {
+  position:relative;
+  left:500px;
+  background-color: lightblue;
 }
 body {
-  background-color: red;
+  background-color:lightblue;
+}
+article {
+  text-align: center;
+  padding: 25px;
 }
